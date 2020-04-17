@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="greyed_out">#c7c7c7</color>
+    <color name="summer">#58bf66</color>
+	<color name="fall">#C02F1D</color>
+	<color name="winter">#44a1c1da</color>
+	<color name="spring">#0d3d56</color>
+</resources>
